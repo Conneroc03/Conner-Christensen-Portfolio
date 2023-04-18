@@ -5,6 +5,8 @@
   -webkit-font-smoothing: antialiased;
 }
 
+
+
 header {
   background-color: var(--bgDark);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 73% 94%, 0 100%);
@@ -32,6 +34,7 @@ header nav .logo {
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: lightgray;
 }
 
 .container {
